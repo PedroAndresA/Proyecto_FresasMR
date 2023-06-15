@@ -1,5 +1,5 @@
 ```Markdown
-![Descripción de la imagen](https://drive.google.com/file/d/1R7aWf8ddOBQJbJt49fTXaipfhYlbdDxq/view?usp=drive_link)
+![Descripción de la imagen]()
 ```
 
 
