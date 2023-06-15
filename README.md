@@ -1,5 +1,5 @@
 ```Markdown
-![Descripción de la imagen]()
+![Descripción de la imagen ](https://github.com/PedroAndresA/Proyecto_FresasMR/blob/main/logo%20fmr.jpg)
 ```
 
 
