@@ -1,8 +1,4 @@
-```Markdown
-![Descripción de la imagen ](https://github.com/PedroAndresA/Proyecto_FresasMR/blob/main/logo%20fmr.jpg)
-```
-
-
+<image src="" alt="Descripción de la imagen">
 
 # Fresas Monterey
 
